@@ -51,19 +51,3 @@ To address these challenges, cross-chain swap protocols (Wormhole) use various m
 
 - **Relayers**: These are nodes that facilitate the communication and coordination between different blockchains. Relayers monitor the events on both chains and relay the necessary information to trigger the swap.
 
-
-### Wormhole Code
-
-```bash
-/services/useTransfer.js
-```
-
-
-
-
-## Contact info:
-### telegram:
-https://t.me/Bahauddin1976
-
-### Skype:
-live:5385a714ad774375
